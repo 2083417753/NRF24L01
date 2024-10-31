@@ -1,7 +1,6 @@
 #ifndef __NRF24L01_Ins_H__
 #define __NRF24L01_Ins_H__
 
-#include "main.h"
 
 /**********  NRF24L01 引脚定义  ***********/
 /**********  	 该引脚定义仅为控制时引用，需使用 STM32CubeMX 初始化下列引脚   ***********/
